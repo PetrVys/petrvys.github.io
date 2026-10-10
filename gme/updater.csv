@@ -3,5 +3,5 @@ CSV file version,Firmware version,Firmware checksum,Firmware download address,Fi
 Items._id,Items._version,Items._url,Items._fileName,Items._fileSize
 0,220209.7,https://cdn.ravensburger.de/db/Firmware-Files/de/220209.7/REV-WLAN-Ladestation/zc-p20217_ota.bin,zc-p20217_ota,1778465
 910,20261007,https://gme.anime.cz/gme/910_English_2nd.gme,English_2nd,1500885
-920,20261010,https://gme.anime.cz/gme/920_Learning_AtoZ.gme,Learning_AtoZ,16408335
+920,20261010,https://gme.anime.cz/gme/920_Learning_AtoZ.gme,Learning_AtoZ,19113722
 
